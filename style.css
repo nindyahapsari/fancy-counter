@@ -45,7 +45,7 @@ body {
   margin-top: 60px;
 }
 
-.counter-value {
+.counter--value {
   color: #1d2507;
   font-size: 200px;
   font-weight: 600;
